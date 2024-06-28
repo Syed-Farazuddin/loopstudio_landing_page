@@ -20,8 +20,8 @@ export default function Gallery() {
   ];
   return (
     <section className="max-w-6xl mx-auto my-10">
-      <div className="flex justify-between my-8">
-        <h2 className="text-2xl">OUR CREATIONS</h2>
+      <div className="flex justify-between my-8 items-center">
+        <h2 className="text-3xl">OUR CREATIONS</h2>
         <button className="hover:bg-black px-4 py-2 border border-slate-900 hover:text-white cursor-pointer">
           SEE ALL
         </button>

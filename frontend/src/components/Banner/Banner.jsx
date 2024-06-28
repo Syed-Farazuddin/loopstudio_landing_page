@@ -8,9 +8,11 @@ export default function Banner() {
         <div className="absolute top-0  left-0 right-0">
           <Header />
         </div>
-        <p className="absolute text-4xl left-10 bottom-24 text-slate-100 w-[28%] leading-28 border-2 border-slate-200 p-8 max-w-6xl mx-auto">
-          IMMERSIVE EXPERIENCES THAT DELIVER
-        </p>
+        <div className="absolute left-20 bottom-28 text-4xl text-slate-100 w-[28%] leading-28 border-2 border-slate-200 p-8">
+          <p className="max-w-6xl mx-auto">
+            IMMERSIVE EXPERIENCES THAT DELIVER
+          </p>
+        </div>
       </div>
     </div>
   );
