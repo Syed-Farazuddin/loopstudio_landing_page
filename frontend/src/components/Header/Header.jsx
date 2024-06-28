@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Header() {
   return (
-    <nav className="flex justify-between items-center bg-transparent z-20 px-10 py-6 max-w-7xl mx-auto">
+    <nav className="flex justify-between items-center bg-transparent z-20 px-10 py-6 max-w-6xl mx-auto">
       <div>
         <svg width="192" height="32" xmlns="http://www.w3.org/2000/svg">
           <path
