@@ -7,6 +7,9 @@ export default {
         grey: { 100: "#8c8c8c", 200: "hsl(0, 0%, 41%)" },
       },
     },
+    screens: {
+      xsm: "300px",
+    },
   },
   plugins: [],
 };
